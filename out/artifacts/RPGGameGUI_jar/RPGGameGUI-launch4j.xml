@@ -1,0 +1,20 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>RPGGameGUI.jar</jar>
+  <outfile>RPGGameGUI.exe</outfile>
+  <errTitle>Error</errTitle>
+  <cmdLine />
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://adoptium.net</downloadUrl>
+  <supportUrl />
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest />
+  <icon />
+  <jre>
+    <minVersion>11</minVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>

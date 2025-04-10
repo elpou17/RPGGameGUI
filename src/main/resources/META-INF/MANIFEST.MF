@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: game.Main
+Class-Path: javafx-graphics-21-win.jar heatmap-21.0.3.jar jackson-annota
+ tions-2.14.2.jar javafx-web-21-win.jar jackson-core-2.14.2.jar javafx-f
+ xml-21.jar fxgl-io-17.3.jar bootstrapfx-core-0.4.0.jar javafx-base-21-w
+ in.jar kotlin-stdlib-1.8.10.jar javafx-media-21-win.jar util-4.0.17.jar
+  javafx-graphics-21.jar javafx-swing-21.jar fxgl-17.3.jar toolboxfx-21.
+ 0.3.jar toolbox-21.0.5.jar controlsfx-11.2.1.jar ikonli-core-12.3.1.jar
+  fxgl-core-17.3.jar fxgl-gameplay-17.3.jar annotations-13.0.jar jackson
+ -databind-2.14.2.jar formsfx-core-11.6.0.jar javafx-media-21.jar javafx
+ -web-21.jar javafx-base-21.jar tilesfx-21.0.3.jar javafx-fxml-21-win.ja
+ r ikonli-javafx-12.3.1.jar storage-4.0.17.jar validatorfx-0.5.0.jar jav
+ afx-controls-21-win.jar fxgl-scene-17.3.jar countries-21.0.3.jar lifecy
+ cle-4.0.17.jar javafx-swing-21-win.jar javafx-controls-21.jar fxgl-enti
+ ty-17.3.jar kotlin-stdlib-common-1.8.10.jar audio-4.0.17.jar
+
